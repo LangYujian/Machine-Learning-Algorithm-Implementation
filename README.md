@@ -1,2 +1,8 @@
 # Machine-Learning-Algorithm-Implementation
-Implement Linear regression, Logistic Regression, Neural Network, SVM, K means and PCA using Matlab
+Implement 
+
+Supervised Learning: Linear regression, Logistic Regression, Neural Network, SVM, Recommendation system (collaborative filtering), Anormaly Detection 
+
+Unsupervised Learning: K means anPCA 
+
+using Matlab
